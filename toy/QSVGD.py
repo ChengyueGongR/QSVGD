@@ -7,7 +7,6 @@ import copy
 from scipy import interpolate
 import scipy.special as spp
 from numpy import linalg as LA
-from matplotlib.font_manager import FontProperties as FP
 from scipy.spatial.distance import pdist, squareform
 from scipy.spatial import distance
 
